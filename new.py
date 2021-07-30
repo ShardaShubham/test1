@@ -1,3 +1,3 @@
-print"I am Hungry"
-print"eat samosa"
-print"new"
+print("Are you hungry")
+print"Eat healthy"
+print"haha"
